@@ -1,9 +1,6 @@
 - 👋 Hey all, @BugsBunnyN64 here.
-- 👀 I’m interested in Super Mario 64, Scratch projects, also Looney Tunes and Nintendo Stuff
-- 🌱 I’m currently learning to make shoot 'em up game on Scratch - TurboWarp
-- I'm looking for some Scratch games
+- 👀 I’m interested in Super Mario 64
 - 📫 How to reach my game
-really is available on my profile section.
 <!---
 BugsBunnyN64/BugsBunnyN64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
